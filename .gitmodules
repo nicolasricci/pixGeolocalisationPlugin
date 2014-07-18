@@ -1,0 +1,3 @@
+[submodule "lib/vendor/GeoIP2-php"]
+	path = lib/vendor/GeoIP2-php
+	url = https://github.com/maxmind/GeoIP2-php.git
